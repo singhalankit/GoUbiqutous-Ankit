@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="analog_hand_stroke">3dp</dimen>
+
+    <dimen name="digital_text_size">30dp</dimen>
+    <dimen name="digital_text_size_round">35dp</dimen>
+
+    <dimen name="digital_ampm_size">20dp</dimen>
+    <dimen name="digital_ampm_size_round">25dp</dimen>
+
+    <dimen name="digital_highTemp_size">30dp</dimen>
+    <dimen name="digital_highTemp_size_round">35dp</dimen>
+
+    <dimen name="digital_lowTemp_size">25dp</dimen>
+    <dimen name="digital_lowTemp_size_round">30dp</dimen>
+
+    <dimen name="digital_dateText_size">20dp</dimen>
+    <dimen name="digital_dateText_size_round">25dp</dimen>
+
+    <dimen name="digital_lineHeight">20dp</dimen>
+    <dimen name="digital_lineHeight_round">25dp</dimen>
+
+    <dimen name="digital_x_offset">15dp</dimen>
+    <dimen name="digital_x_offset_round">25dp</dimen>
+    <dimen name="digital_y_offset">65dp</dimen>
+
+    <dimen name="digital_x_margin">30dp</dimen>
+    <dimen name="digital_x_margin_round">50dp</dimen>
+
+    <dimen name="digital_x_date_margin">5dp</dimen>
+    <dimen name="digital_x_date_margin_round">20dp</dimen>
+
+    <dimen name="digital_temp_gap_margin">5dp</dimen>
+    <dimen name="digital_temp_gap_margin_round">10dp</dimen>
+
+    <dimen name="digital_rect_dimen">50dp</dimen>
+    <dimen name="digital_rect_dimen_round">50dp</dimen>
+
+
+</resources>

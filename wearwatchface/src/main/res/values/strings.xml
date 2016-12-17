@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WearWatchFace</string>
+    <string name="my_analog_name">My Analog</string>
+    <string name="am_string" translatable="false">AM</string>
+    <string name="pm_string" translatable="false">PM</string>
+
+    <string name="data_path" translatable="false">/weather</string>
+    <string name="high_key" translatable="false">highTemp</string>
+    <string name="low_key" translatable="false">lowTemp</string>
+    <string name="asset_key" translatable="false">assetDataMap</string>
+
+</resources>
