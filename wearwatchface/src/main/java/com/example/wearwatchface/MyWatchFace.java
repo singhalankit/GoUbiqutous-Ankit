@@ -153,8 +153,8 @@ public class MyWatchFace extends CanvasWatchFaceService {
         //asset and temperatures sent from the mobile app
         Asset mIconAsset;
         Bitmap mIconBitmap;
-        String mHighTemp;
-        String mLowTemp;
+        String mHighTemp = "35";
+        String mLowTemp = "22";
 
         String mAmString;
         String mPmString;

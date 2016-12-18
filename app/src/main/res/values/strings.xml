@@ -226,4 +226,13 @@
     <string name="gcm_weather_alert">Heads up: %1$s in %2$s!</string>
     // TODO: Get the SenderID from the Developer Console
     <string name="gcm_defaultSenderId" translatable="false"></string>
+
+    <!-- This string path is used for DataItems using the DataLayer API between mobile and wearable -->
+    <string name="data_path" translatable="false">/weather</string>
+    <string name="time_key" translatable="false">time</string>
+    <string name="high_key" translatable="false">highTemp</string>
+    <string name="low_key" translatable="false">lowTemp</string>
+    <string name="asset_key" translatable="false">assetDataMap</string>
+
+
 </resources>
