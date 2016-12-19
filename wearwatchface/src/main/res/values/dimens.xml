@@ -14,8 +14,8 @@
     <dimen name="digital_lowTemp_size">25dp</dimen>
     <dimen name="digital_lowTemp_size_round">30dp</dimen>
 
-    <dimen name="digital_dateText_size">20dp</dimen>
-    <dimen name="digital_dateText_size_round">25dp</dimen>
+    <dimen name="digital_dateText_size">15dp</dimen>
+    <dimen name="digital_dateText_size_round">15dp</dimen>
 
     <dimen name="digital_lineHeight">20dp</dimen>
     <dimen name="digital_lineHeight_round">25dp</dimen>
